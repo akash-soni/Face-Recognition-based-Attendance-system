@@ -19,7 +19,7 @@ idna==2.10
 importlib-metadata==4.3.1
 importlib-resources==5.1.2
 Jinja2==2.11.1
-joblib==1.0.1
+joblib==1.2.0
 Keras==2.4.3
 keras-facenet==0.3.2
 Keras-Preprocessing==1.1.2
